@@ -27,7 +27,7 @@ Ben bir Junior Full-Stack Software Developer öğrencisiyim ve yazılım gelişt
 
 ## 📫 Bana Ulaşın
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/AlkinBayrak)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/alkinbayrak)
 [![E-posta](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:alkin.bayrak01@gmail.com)
 
 

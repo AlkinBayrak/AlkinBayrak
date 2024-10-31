@@ -6,8 +6,6 @@ Junior Full-Stack Software Developer olma yolunda ilerliyorum ve yazılım geli�
 
 ![Etkileşimli Contribution Activity](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
 
-> Bu profil oyun tadında etkileşim izlenimi vermek için hazırlanmıştır. Keyfini çıkarın!
-
 ---
 
 ### Kullandığım Teknolojiler ve Araçlar

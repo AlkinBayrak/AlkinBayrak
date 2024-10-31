@@ -1,7 +1,6 @@
 # 🎮 Eğlenceli Profilime Hoş Geldiniz!
 
-Benim GitHub profilimle etkileşime geçerken küçük bir oyun havasına dalın! 🎉
-Ben bir Junior Full-Stack Software Developer öğrencisiyim ve yazılım geliştirme alanında sürekli olarak kendimi geliştirmeye odaklanıyorum. Özellikle C# programlama dilinde bilgi ve becerilerimi geliştirmeye odaklanıyor, bunun yanı sıra web tasarımı için HTML, CSS ve JavaScript dillerini kullanarak etkileşimli ve kullanıcı dostu uygulamalar geliştirmeye çalışıyorum.
+Junior Full-Stack Software Developer olma yolunda ilerliyorum ve yazılım geliştirme alanında sürekli olarak kendimi geliştirmeye odaklanıyorum. Özellikle C# programlama dilinde bilgi ve becerilerimi geliştirmeye odaklanıyor, bunun yanı sıra web tasarımı için HTML, CSS ve JavaScript dillerini kullanarak etkileşimli ve kullanıcı dostu uygulamalar geliştirmeye çalışıyorum.
 
 ---
 

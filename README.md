@@ -1,9 +1,5 @@
 # 🎮 Eğlenceli Profilime Hoş Geldiniz!
 
-Junior Full-Stack Software Developer olma yolunda ilerliyorum ve yazılım geliştirme alanında sürekli olarak kendimi geliştirmeye odaklanıyorum. Özellikle C# programlama dilinde bilgi ve becerilerimi geliştirmeye odaklanıyor, bunun yanı sıra web tasarımı için HTML, CSS ve JavaScript dillerini kullanarak etkileşimli ve kullanıcı dostu uygulamalar geliştirmeye çalışıyorum.
-
----
-
 ![Etkileşimli Contribution Activity](https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif)
 
 ---
